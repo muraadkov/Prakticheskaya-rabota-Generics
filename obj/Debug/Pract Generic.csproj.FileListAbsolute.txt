@@ -1,0 +1,6 @@
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\bin\Debug\Pract Generic.exe.config
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\bin\Debug\Pract Generic.exe
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\bin\Debug\Pract Generic.pdb
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\obj\Debug\Pract Generic.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\obj\Debug\Pract Generic.exe
+C:\Users\murka\source\repos\Pract Generic\Pract Generic\obj\Debug\Pract Generic.pdb
